@@ -1,0 +1,5 @@
+# save here your devices ssh public keys, for keep it safe across GITPOD reboots
+# copy & paste conten to: ~/.ssh/autorized_keys
+# key format:
+# ssh-rsa xxXXxXx... user@host-name
+
